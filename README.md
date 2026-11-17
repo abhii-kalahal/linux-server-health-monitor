@@ -107,3 +107,16 @@ database integration and security log analysis.
 ## License
 
 This project is licensed under the MIT License.
+## Dashboard Screenshots
+
+### System Overview
+![System Overview](screenshots/overview.png)
+
+### Security Log Analysis
+![Security Log Analysis](screenshots/log-analysis.png)
+
+### Monitoring History
+![Monitoring History](screenshots/monitoring-history.png)
+
+## Project Author
+Developed as a hands-on DevOps and Linux monitoring project.
